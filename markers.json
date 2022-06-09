@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "latitude": 200,
+      "longitude": 200,
+      "status": 0
+    },
+    {
+      "id": 2,
+      "latitude": 374.19861,
+      "longitude": 996.006,
+      "status": 1    
+    },
+    {
+      "id": 3,
+      "latitude": 760.193,
+      "longitude": -812.62,
+      "status": 1    
+    },
+    {
+      "id": 4,
+      "latitude": 156.77,
+      "longitude": -3053.769,
+      "status": 1    
+    }
+  ]
+}
